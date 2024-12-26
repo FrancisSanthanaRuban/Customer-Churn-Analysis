@@ -1,4 +1,10 @@
 # Customer-Churn-Analysis
+
+Developed an interactive Power BI dashboard to analyze customer behavior and identify key factors influencing churn.
+Conducted data prepossessing and transformation using Power Query to clean and standardize data from multiple sources.
+Implemented DAX formulas to create custom KPIs and calculated measures for churn rate, retention, and customer segmentation.
+Visualized insights with dynamic charts and reports, enabling stakeholders to monitor churn trends and take proactive actions
+
 Data Dictionary
 RowNumber—corresponds to the record (row) number and has no effect on the output.
 CustomerId—contains random values and has no effect on customer leaving the bank.
